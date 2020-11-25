@@ -1,8 +1,5 @@
 # Laser_Spel
 
-
-# Laser_Spel
-
 ![Loading Screen](Laser-intro.gif)
 
 ## About the game
